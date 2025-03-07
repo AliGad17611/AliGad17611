@@ -61,7 +61,7 @@
   <a href="mailto:aligad.17611@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.facebook.com/aligad17611/&mibextid=hIlR13">
+  <a href="https://www.facebook.com/aligad17611/?id=aligad17611&mibextid=hIlR13">
     <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
