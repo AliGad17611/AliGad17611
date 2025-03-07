@@ -41,6 +41,37 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ali's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AliGad17611&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 🤝 Connect With Me:
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/aligadali/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    
+  <a href="https://www.instagram.com/ali.gad17/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+  <a href="mailto:aligad.17611@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.facebook.com/aligad17611&mibextid=hIlR13">
+    <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</div>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
 <!--
 **AliGad17611/AliGad17611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
