@@ -15,6 +15,18 @@
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AliGad17611?tab=repositories)**.
 
 <br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,flutter,dart,firebase,swift,c,graphql" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
+</div>
+
+
 <!--
 **AliGad17611/AliGad17611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
