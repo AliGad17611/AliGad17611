@@ -22,7 +22,7 @@
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,flutter,dart,firebase,swift,c,graphql" />
+    <img src="https://skillicons.dev/icons?i=java,flutter,dart,firebase,c" />
     <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
 </div>
 
